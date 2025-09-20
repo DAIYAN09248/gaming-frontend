@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://gaming-backend-k7tb.onrender.com/api';
+const API_URL = 'https://gaming-backend-k7tb.onrender.com';
 
 const api = axios.create({
   baseURL: API_URL,
